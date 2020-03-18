@@ -1,0 +1,6 @@
+Visitor's Full name : simcar
+Visitor's age : 27
+Date of Visit: 2020-03-18
+Time of Visit: 14:53:48.328722
+Reason of Visit: visiting
+name of the person who assisted the visitor: Security Guard

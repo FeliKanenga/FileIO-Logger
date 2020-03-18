@@ -1,0 +1,7 @@
+
+Visitor's Full name : thabo
+Visitor's age : 22
+Date of Visit: 2020-03-18
+Time of Visit: 14:42:08.653380
+Reason of Visit: visiting
+name of the person who assisted the visitor: Security Guard

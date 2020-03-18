@@ -1,0 +1,6 @@
+G15:05:58.285 [Test worker] INFO  Visitors - Visitor's Full name : feli
+?15:05:58.297 [Test worker] INFO  Visitors - Visitor's age : 25
+F15:05:58.297 [Test worker] INFO  Visitors - Date of Visit: 2020-03-18
+K15:05:58.298 [Test worker] INFO  Visitors - Time of Visit: 14:52:15.741362
+F15:05:58.299 [Test worker] INFO  Visitors - Reason of Visit: visiting
+h15:05:58.300 [Test worker] INFO  Visitors - name of the person who assisted the visitor: Security Guard

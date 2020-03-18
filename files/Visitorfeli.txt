@@ -1,0 +1,6 @@
+Visitor's Full name : feli
+Visitor's age : 25
+Date of Visit: 2020-03-18
+Time of Visit: 14:52:15.741362
+Reason of Visit: visiting
+name of the person who assisted the visitor: Security Guard

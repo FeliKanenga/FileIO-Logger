@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VisitorsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-18T13:05:57" hostname="umuzi-admin" time="0.683">
+  <properties/>
+  <testcase name="load" classname="VisitorsTest" time="0.683"/>
+  <system-out><![CDATA[15:05:58.285 [Test worker] INFO  Visitors - Visitor's Full name : feli
+15:05:58.297 [Test worker] INFO  Visitors - Visitor's age : 25
+15:05:58.297 [Test worker] INFO  Visitors - Date of Visit: 2020-03-18
+15:05:58.298 [Test worker] INFO  Visitors - Time of Visit: 14:52:15.741362
+15:05:58.299 [Test worker] INFO  Visitors - Reason of Visit: visiting
+15:05:58.300 [Test worker] INFO  Visitors - name of the person who assisted the visitor: Security Guard
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
